@@ -1,0 +1,19 @@
+{application, counters,
+ [{description, "Counters for BEAM"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, { counters, []}},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {description, "Counters for BEAM"},
+  {maintainers, ["Ilya Khaprov <i.khaprov@gmail.com>"]},
+  {licenses, ["MIT"]},
+  {links, [
+           {"Github", "https://github.com/deadtrickster/counters.erl"}
+          ]}
+ ]}.
