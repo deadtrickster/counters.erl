@@ -1,6 +1,6 @@
 {application, counters,
  [{description, "Counters for BEAM"},
-  {vsn, "0.1.0"},
+  {vsn, "0.2.0"},
   {registered, []},
   {mod, { counters, []}},
   {applications,

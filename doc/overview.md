@@ -1,6 +1,6 @@
 @copyright 2018 Ilya Khaprov <<i.khaprov@gmail.com>>.
 @title Counters for BEAM
-@version 0.1.0
+@version 0.2.0
 
 @doc
 [![Hex.pm](https://img.shields.io/hexpm/v/counters.svg?maxAge=2592000?style=plastic)](https://hex.pm/packages/counters)
