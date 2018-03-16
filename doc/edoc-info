@@ -1,4 +1,4 @@
 %% encoding: UTF-8
 {application,counters}.
-{modules,[counters_boolean,counters_counter,counters_distribution,
-          counters_simple,counters_sum]}.
+{modules,[counters_boolean,counters_buckets,counters_counter,
+          counters_distribution,counters_simple,counters_sum]}.

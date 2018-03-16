@@ -35,6 +35,7 @@ MIT
 
 <table width="100%" border="0" summary="list of modules">
 <tr><td><a href="counters_boolean.md" class="module">counters_boolean</a></td></tr>
+<tr><td><a href="counters_buckets.md" class="module">counters_buckets</a></td></tr>
 <tr><td><a href="counters_counter.md" class="module">counters_counter</a></td></tr>
 <tr><td><a href="counters_distribution.md" class="module">counters_distribution</a></td></tr>
 <tr><td><a href="counters_simple.md" class="module">counters_simple</a></td></tr>
