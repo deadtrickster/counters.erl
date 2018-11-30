@@ -3,7 +3,7 @@
 %% @hidden
 %%%-------------------------------------------------------------------
 
--module(counters).
+-module(counters_app).
 
 -behaviour(application).
 
