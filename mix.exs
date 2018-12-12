@@ -15,7 +15,7 @@ defmodule Counters.Mixfile do
   end
 
   def application do
-    [mod: { :counters, [] }]
+    [mod: { :counters_app, [] }]
   end
 
   defp package do
