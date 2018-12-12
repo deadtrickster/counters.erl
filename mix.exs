@@ -3,7 +3,7 @@ defmodule Counters.Mixfile do
 
   def project do
     [app: :counters,
-     version: "0.2.0",
+     version: "0.2.1",
      description: description(),
      package: package()]
   end
