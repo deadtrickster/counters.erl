@@ -4,7 +4,7 @@
 
 Copyright (c) 2018 Ilya Khaprov <<i.khaprov@gmail.com>>.
 
-__Version:__ 0.2.1
+__Version:__ 0.2.2
 
 [![Hex.pm](https://img.shields.io/hexpm/v/counters.svg?maxAge=2592000?style=plastic)](https://hex.pm/packages/counters)
 [![Hex.pm](https://img.shields.io/hexpm/dt/counters.svg?maxAge=2592000)](https://hex.pm/packages/counters)
