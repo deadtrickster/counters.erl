@@ -44,7 +44,7 @@ new(Name, Tags, Count, Sum) ->
 %%
 %% @end
 set(Name, Tags, Count, Sum) ->
-  case ets:update_element(?TABLE, ?KEY, Count, [{?I_POS, 0}, {?F_POS, Sum}]) of
+  case ets:update_element(?TABLE, ?KEY, [{?C_POS, Count}, {?I_POS, 0}, {?F_POS, Sum}]) of
     false ->
       unknown;
     true ->
